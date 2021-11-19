@@ -1,0 +1,4 @@
+export const actionTypes = {
+    SET_LIVECLASSES: 'SET_LIVECLASSES',
+    SET_STREAMARCHIEVE: 'SET_STREAMARCHIEVE'
+}
